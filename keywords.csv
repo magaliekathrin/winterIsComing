@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.6938335191681818
 'Igel',de,Herbst,#e67300,#331a00,4,0.6855105401852273
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.6643649296193181
-'Tulpe',de,Frühling,#00ff55,#003311,1,0.6152827407624999
 'Wärmebus',de,Winter,#6666ff,#00004d,1,0.6141249999999999
 'Glatteis',de,Winter,#4d94ff,#00004d,1,0.5914921145145192
+'Tulpe',de,Frühling,#00ff55,#003311,1,0.5235903896481249
 'Frühlingsgefühle',de,Frühling,#009933,#003311,1,0.5234403746481249
 'Tropische Nächte',de,Sommer,#ff6633,#330d00,1,0.3212263695696584
