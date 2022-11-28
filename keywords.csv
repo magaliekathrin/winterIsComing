@@ -2,7 +2,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Regen',de,Herbst,#ff9933,#331a00,3,0.8441881352499999
 'Vögel',de,Frühling,#b3ffcc,#003311,2,0.8073503649318182
 'Sonne',de,Frühling,#00e600,#003311,3,0.7912431537954544
-'Schlitten',de,Winter,#3333ff,#00004d,3,0.7884775965681818
 'Natur',de,Frühling,#66ff99,#003311,2,0.78670151225
 'Laub',de,Herbst,#804000,#331a00,2,0.7787067285454545
 'Blätter',de,Herbst,#ffd9b3,#331a00,2,0.7625724971590908
@@ -13,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitze',de,Sommer,#ff8c66,#330d00,2,0.7013823319624999
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.6938335191681818
 'Igel',de,Herbst,#e67300,#331a00,4,0.6855105401852273
+'Schlitten',de,Winter,#3333ff,#00004d,3,0.6723071570829545
 'Wärmebus',de,Winter,#6666ff,#00004d,1,0.6141249999999999
 'Glatteis',de,Winter,#4d94ff,#00004d,1,0.5914921145145192
 'Tulpe',de,Frühling,#00ff55,#003311,1,0.5235903896481249
