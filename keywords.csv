@@ -9,10 +9,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Winter,#9999ff,#00004d,3,0.7157747515889206
 'Sonne',de,Frühling,#00e600,#003311,3,0.7048001679988635
 'Hitze',de,Sommer,#ff8c66,#330d00,2,0.7013823319624999
-'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.6938335191681818
 'Igel',de,Herbst,#e67300,#331a00,4,0.6855105401852273
 'Schlitten',de,Winter,#3333ff,#00004d,3,0.6723071570829545
 'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.6622311466761363
+'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.6447209712929546
 'Wärmebus',de,Winter,#6666ff,#00004d,1,0.6141249999999999
 'Tulpe',de,Frühling,#00ff55,#003311,1,0.5235903896481249
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.5182532744908664
