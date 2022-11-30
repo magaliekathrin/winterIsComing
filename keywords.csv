@@ -11,10 +11,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.6447209712929546
 'Freibad',de,Sommer,#e63900,#330d00,2,0.6386307508704544
 'Sonne',de,Frühling,#00e600,#003311,3,0.6313232100717613
-'Wärmebus',de,Winter,#6666ff,#00004d,1,0.6141249999999999
 'Igel',de,Herbst,#e67300,#331a00,3,0.6058173373392614
 'Schlitten',de,Winter,#3333ff,#00004d,3,0.5855032226114204
 'Tulpe',de,Frühling,#00ff55,#003311,1,0.5235903896481249
+'Wärmebus',de,Winter,#6666ff,#00004d,1,0.5220062499999999
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.5182532744908664
 'Glatteis',de,Winter,#4d94ff,#00004d,2,0.4526788852367401
 'Frühlingsgefühle',de,Frühling,#009933,#003311,1,0.4453743634509061
