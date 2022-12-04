@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.5636290548955233
 'Laub',de,Herbst,#804000,#331a00,3,0.5325069062009318
 'Glatteis',de,Winter,#4d94ff,#00004d,2,0.4526788852367401
-'Wärmebus',de,Winter,#6666ff,#00004d,2,0.4524495456249999
+'Wärmebus',de,Winter,#6666ff,#00004d,1,0.4524495456249999
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.4088600093553652
 'Tulpe',de,Frühling,#00ff55,#003311,1,0.3230936023926546
 'Frühlingsgefühle',de,Frühling,#009933,#003311,1,0.3226155608432796
