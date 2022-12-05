@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Natur',de,Frühling,#66ff99,#003311,3,0.6129155005491675
 'Igel',de,Herbst,#e67300,#331a00,3,0.6058173373392614
 'Schlitten',de,Winter,#3333ff,#00004d,3,0.5855032226114204
-'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.5636290548955233
 'Laub',de,Herbst,#804000,#331a00,3,0.5325069062009318
+'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.511319933933922
 'Glatteis',de,Winter,#4d94ff,#00004d,2,0.4526788852367401
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.4088600093553652
 'Wärmebus',de,Winter,#6666ff,#00004d,1,0.3277273799640624
