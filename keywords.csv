@@ -12,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laub',de,Herbst,#804000,#331a00,3,0.5325069062009318
 'Schlitten',de,Winter,#3333ff,#00004d,3,0.5299022364924346
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.511319933933922
+'Glatteis',de,Winter,#4d94ff,#00004d,3,0.5079101156330472
 'Freibad',de,Sommer,#e63900,#330d00,2,0.471080695273134
-'Glatteis',de,Winter,#4d94ff,#00004d,2,0.4526788852367401
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.4088600093553652
 'Tropische Nächte',de,Sommer,#ff6633,#330d00,1,0.2730424141342096
 'Wärmebus',de,Winter,#6666ff,#00004d,1,0.2379156452740351
