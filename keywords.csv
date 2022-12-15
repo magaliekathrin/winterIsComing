@@ -11,11 +11,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schlitten',de,Winter,#3333ff,#00004d,3,0.5299022364924346
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.511319933933922
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.5102642420641975
-'Vögel',de,Frühling,#b3ffcc,#003311,3,0.5023185472629564
 'Glatteis',de,Winter,#4d94ff,#00004d,3,0.4957662173789992
 'Freibad',de,Sommer,#e63900,#330d00,2,0.471080695273134
+'Vögel',de,Frühling,#b3ffcc,#003311,3,0.46828984653714933
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.4088600093553652
 'Tropische Nächte',de,Sommer,#ff6633,#330d00,1,0.2320860520140781
 'Wärmebus',de,Winter,#6666ff,#00004d,1,0.2031283884829298
 'Frühlingsgefühle',de,Frühling,#009933,#003311,1,0.1226673393613866
-'Tulpe',de,Frühling,#00ff55,#003311,1,0.10311661859875729
+'Tulpe',de,Frühling,#00ff55,#003311,1,0.1031166185987572
