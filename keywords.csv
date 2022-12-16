@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.5723957392201704
 'Schnee',de,Winter,#9999ff,#00004d,3,0.5637330086434093
 'Regen',de,Herbst,#ff9933,#331a00,3,0.5450101848523083
 'Sonne',de,Frühling,#00e600,#003311,3,0.539869836572302
@@ -11,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.511319933933922
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.5102642420641975
 'Natur',de,Frühling,#66ff99,#003311,3,0.5057361753338484
+'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.5005813674280539
 'Glatteis',de,Winter,#4d94ff,#00004d,3,0.4957662173789992
 'Freibad',de,Sommer,#e63900,#330d00,2,0.471080695273134
 'Vögel',de,Frühling,#b3ffcc,#003311,3,0.4682898465371493
