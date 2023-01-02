@@ -10,11 +10,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schlitten',de,Winter,#3333ff,#00004d,3,0.4018584835290981
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.3982879396903049
 'Regen',de,Herbst,#ff9933,#331a00,3,0.3908544806530774
-'Schnee',de,Winter,#9999ff,#00004d,3,0.3666954250218825
 'Natur',de,Frühling,#66ff99,#003311,3,0.3637075080026941
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.3503522342592513
-'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.34809426434107177
+'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.3480942643410717
 'Laub',de,Herbst,#804000,#331a00,3,0.3349291598322595
+'Schnee',de,Winter,#9999ff,#00004d,3,0.31666640126860013
 'Wärmebus',de,Winter,#6666ff,#00004d,1,0.1282194438645792
 'Frühlingsgefühle',de,Frühling,#009933,#003311,2,0.1160510972988269
 'Tropische Nächte',de,Sommer,#ff6633,#330d00,1,0.1032553419857975
