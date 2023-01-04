@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.5296177745840098
+'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.49607604930549926
 'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.4373661298811876
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.4121551927095644
 'Vögel',de,Frühling,#b3ffcc,#003311,3,0.4056869035549084
@@ -18,4 +18,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmebus',de,Winter,#6666ff,#00004d,1,0.1282194438645792
 'Frühlingsgefühle',de,Frühling,#009933,#003311,2,0.1160510972988269
 'Tropische Nächte',de,Sommer,#ff6633,#330d00,1,0.0879170556879278
-'Tulpe',de,Frühling,#00ff55,#003311,1,0.03873321236388569
+'Tulpe',de,Frühling,#00ff55,#003311,1,0.0387332123638856
