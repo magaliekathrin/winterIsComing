@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.4262894702595867
 'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.4040177026717367
 'Schlitten',de,Winter,#3333ff,#00004d,3,0.4018584835290981
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.3982879396903049
 'Regen',de,Herbst,#ff9933,#331a00,3,0.3908544806530774
-'Glatteis',de,Winter,#4d94ff,#00004d,3,0.38459901003446884
+'Glatteis',de,Winter,#4d94ff,#00004d,3,0.3845990100344688
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.382560731075857
 'Sonne',de,Frühling,#00e600,#003311,3,0.3820415184230519
+'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.3809790933570123
 'Natur',de,Frühling,#66ff99,#003311,3,0.3637075080026941
 'Igel',de,Herbst,#e67300,#331a00,3,0.3604557832880323
 'Vögel',de,Frühling,#b3ffcc,#003311,3,0.3588794271125812
