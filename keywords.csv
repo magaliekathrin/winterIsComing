@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.3452834398357995
 'Sonne',de,Frühling,#00e600,#003311,3,0.3342520302050487
 'Glatteis',de,Winter,#4d94ff,#00004d,3,0.3311324468408128
-'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.3276033641931023
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.3216068255704908
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.3174229744259447
 'Schnee',de,Winter,#9999ff,#00004d,3,0.3166664012686001
@@ -13,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laub',de,Herbst,#804000,#331a00,3,0.3032773194937842
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.2946594242932157
 'Schlitten',de,Winter,#3333ff,#00004d,3,0.2889044373473073
+'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.283464429564137
 'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.2652055732818788
 'Freibad',de,Sommer,#e63900,#330d00,2,0.2330626820043095
 'Wärmebus',de,Winter,#6666ff,#00004d,1,0.0807165883258346
