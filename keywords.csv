@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schlitten',de,Winter,#3333ff,#00004d,3,0.2889044373473073
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.283464429564137
 'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.2652055732818788
-'Freibad',de,Sommer,#e63900,#330d00,1,0.198103759703663
+'Freibad',de,Sommer,#e63900,#330d00,2,0.18725117574811356
 'Wärmebus',de,Winter,#6666ff,#00004d,1,0.0807165883258346
 'Frühlingsgefühle',de,Frühling,#009933,#003311,1,0.0553535242209697
 'Tulpe',de,Frühling,#00ff55,#003311,1,0.0393824874765254
-'Tropische Nächte',de,Sommer,#ff6633,#330d00,1,0.024684146890200268
+'Tropische Nächte',de,Sommer,#ff6633,#330d00,1,0.0246841468902002
