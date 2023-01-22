@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Regen',de,Herbst,#ff9933,#331a00,3,0.3871298431723763
+'Regen',de,Herbst,#ff9933,#331a00,3,0.3703945830601562
 'Vögel',de,Frühling,#b3ffcc,#003311,3,0.3477166442187685
 'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.322087104440456
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.3216068255704908
@@ -18,4 +18,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frühlingsgefühle',de,Frühling,#009933,#003311,1,0.0613506755878242
 'Wärmebus',de,Winter,#6666ff,#00004d,1,0.0584452478154154
 'Tulpe',de,Frühling,#00ff55,#003311,1,0.042369308091164
-'Tropische Nächte',de,Sommer,#ff6633,#330d00,1,0.015695080296444078
+'Tropische Nächte',de,Sommer,#ff6633,#330d00,1,0.015695080296444
