@@ -11,11 +11,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonne',de,Frühling,#00e600,#003311,3,0.2986463102776931
 'Glatteis',de,Winter,#4d94ff,#00004d,3,0.2864174248146908
 'Laub',de,Herbst,#804000,#331a00,3,0.2854640292969893
-'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.283464429564137
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.2826896129219606
+'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.2641252283113346
 'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.239467911380506
 'Freibad',de,Sommer,#e63900,#330d00,2,0.1872511757481135
 'Frühlingsgefühle',de,Frühling,#009933,#003311,1,0.0613506755878242
-'Wärmebus',de,Winter,#6666ff,#00004d,1,0.04967846064310309
+'Wärmebus',de,Winter,#6666ff,#00004d,1,0.049678460643103
 'Tulpe',de,Frühling,#00ff55,#003311,1,0.0370640168774894
 'Tropische Nächte',de,Sommer,#ff6633,#330d00,1,0.015695080296444
