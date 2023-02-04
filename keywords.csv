@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laub',de,Herbst,#804000,#331a00,3,0.2475954149024408
 'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.2175911387643392
 'Igel',de,Herbst,#e67300,#331a00,3,0.2017767810190238
-'Rekordwerte',de,Sommer,#ffff1a,#330d00,3,0.16877782250522083
-'Freibad',de,Sommer,#e63900,#330d00,1,0.1591639043858964
+'Rekordwerte',de,Sommer,#ffff1a,#330d00,3,0.1687778225052208
+'Freibad',de,Sommer,#e63900,#330d00,2,0.15103969372801193
 'Frühlingsgefühle',de,Frühling,#009933,#003311,1,0.1000854542444109
 'Tulpe',de,Frühling,#00ff55,#003311,1,0.0576098352773194
 'Wärmebus',de,Winter,#6666ff,#00004d,1,0.0220425969041668
