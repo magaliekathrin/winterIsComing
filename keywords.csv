@@ -8,9 +8,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vögel',de,Frühling,#b3ffcc,#003311,3,0.2712986715797147
 'Natur',de,Frühling,#66ff99,#003311,3,0.2652908626484284
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.2641252283113346
-'Regen',de,Herbst,#ff9933,#331a00,3,0.2603220077730952
 'Laub',de,Herbst,#804000,#331a00,3,0.2475954149024408
-'Schlitten',de,Winter,#3333ff,#00004d,3,0.23567763044122797
+'Schlitten',de,Winter,#3333ff,#00004d,3,0.2356776304412279
+'Regen',de,Herbst,#ff9933,#331a00,3,0.22624412160713095
 'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.2175911387643392
 'Igel',de,Herbst,#e67300,#331a00,3,0.2017767810190238
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,3,0.1687778225052208
