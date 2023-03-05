@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.2795248520348524
 'Sonne',de,Frühling,#00e600,#003311,3,0.2604758256777178
+'Regen',de,Herbst,#ff9933,#331a00,3,0.24727322336606125
 'Natur',de,Frühling,#66ff99,#003311,3,0.2282091472422133
 'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.228096590002816
-'Regen',de,Herbst,#ff9933,#331a00,3,0.2262441216071309
 'Schnee',de,Winter,#9999ff,#00004d,3,0.2220869669665424
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.2200240600919957
 'Laub',de,Herbst,#804000,#331a00,3,0.2199527122125292
