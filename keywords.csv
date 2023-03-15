@@ -7,9 +7,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laub',de,Herbst,#804000,#331a00,3,0.2199527122125292
 'Regen',de,Herbst,#ff9933,#331a00,3,0.2191239441475139
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.2134804094934094
-'Glatteis',de,Winter,#4d94ff,#00004d,2,0.2104874488556418
 'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.2079367805933027
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.2074526307346486
+'Glatteis',de,Winter,#4d94ff,#00004d,1,0.17891470652729552
 'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.1632158214463543
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.140805352010022
 'Frühlingsgefühle',de,Frühling,#009933,#003311,2,0.1405395695819066
