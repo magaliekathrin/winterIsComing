@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.1600898105687763
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.1432753935620893
 'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.1389869892071059
-'Igel',de,Herbst,#e67300,#331a00,2,0.1293980044611867
 'Schlitten',de,Winter,#3333ff,#00004d,2,0.120477681230165
+'Igel',de,Herbst,#e67300,#331a00,3,0.12028197093486585
 'Freibad',de,Sommer,#e63900,#330d00,2,0.0965123666092008
 'Wärmebus',de,Winter,#6666ff,#00004d,1,0.0259919731652453
 'Tulpe',de,Frühling,#00ff55,#003311,1,0.0182222546073356
