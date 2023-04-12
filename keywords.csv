@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.1218539084748612
 'Igel',de,Herbst,#e67300,#331a00,3,0.1174272378640768
 'Schlitten',de,Winter,#3333ff,#00004d,2,0.1062699678251578
-'Freibad',de,Sommer,#e63900,#330d00,2,0.0784297000375212
+'Freibad',de,Sommer,#e63900,#330d00,3,0.07615491470931236
 'Tropische Nächte',de,Sommer,#ff6633,#330d00,1,0.0649513403643029
 'Tulpe',de,Frühling,#00ff55,#003311,1,0.010758676922346
-'Wärmebus',de,Winter,#6666ff,#00004d,1,0.00980286008941011
+'Wärmebus',de,Winter,#6666ff,#00004d,1,0.0098028600894101
