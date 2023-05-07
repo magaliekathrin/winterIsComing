@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonne',de,Frühling,#00e600,#003311,3,0.2286850376431505
-'Regen',de,Herbst,#ff9933,#331a00,3,0.1915040272474961
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.1893261837949206
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.1838632036965793
+'Regen',de,Herbst,#ff9933,#331a00,3,0.18138329679673532
 'Natur',de,Frühling,#66ff99,#003311,3,0.1734671788836939
 'Frühlingsgefühle',de,Frühling,#009933,#003311,3,0.170630390005225
 'Schnee',de,Winter,#9999ff,#00004d,3,0.1594140092334192
