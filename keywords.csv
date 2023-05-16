@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Natur',de,Frühling,#66ff99,#003311,3,0.1734671788836939
 'Schnee',de,Winter,#9999ff,#00004d,3,0.1722767196665881
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.1707520866045237
-'Frühlingsgefühle',de,Frühling,#009933,#003311,3,0.170630390005225
-'Freibad',de,Sommer,#e63900,#330d00,3,0.16911648458085257
+'Freibad',de,Sommer,#e63900,#330d00,3,0.1691164845808525
 'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.1576371920456064
+'Frühlingsgefühle',de,Frühling,#009933,#003311,2,0.14503655150444125
 'Laub',de,Herbst,#804000,#331a00,3,0.1437002591477311
 'Vögel',de,Frühling,#b3ffcc,#003311,3,0.1434432567034976
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.1373104989442231
