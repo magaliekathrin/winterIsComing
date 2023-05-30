@@ -2,11 +2,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonne',de,Frühling,#00e600,#003311,3,0.2227415038686809
 'Natur',de,Frühling,#66ff99,#003311,3,0.2024240420511398
 'Regen',de,Herbst,#ff9933,#331a00,3,0.1980070799749046
-'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.1872039617028861
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.1851626504462953
 'Vögel',de,Frühling,#b3ffcc,#003311,3,0.1723367886525184
 'Schnee',de,Winter,#9999ff,#00004d,3,0.1722767196665881
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.1707520866045237
+'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.16862728199290775
 'Frühlingsgefühle',de,Frühling,#009933,#003311,2,0.162581743778775
 'Freibad',de,Sommer,#e63900,#330d00,3,0.1623369505300882
 'Igel',de,Herbst,#e67300,#331a00,3,0.1429410795166084
