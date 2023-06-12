@@ -12,10 +12,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.1373104989442231
 'Laub',de,Herbst,#804000,#331a00,3,0.1259381991932692
 'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.1239167054705331
+'Tropische Nächte',de,Sommer,#ff6633,#330d00,2,0.10720864856786584
 'Schlitten',de,Winter,#3333ff,#00004d,2,0.0834296898572137
 'Frühlingsgefühle',de,Frühling,#009933,#003311,1,0.0774127461207576
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.0715493582109647
 'Glatteis',de,Winter,#4d94ff,#00004d,1,0.0671278123655972
 'Tulpe',de,Frühling,#00ff55,#003311,1,0.0100463266629709
-'Tropische Nächte',de,Sommer,#ff6633,#330d00,1,0.0079512983151363
 'Wärmebus',de,Winter,#6666ff,#00004d,1,0.0009620988517824
