@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Freibad',de,Sommer,#e63900,#330d00,3,0.2603983821161695
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.2420796527478944
 'Sonne',de,Frühling,#00e600,#003311,3,0.2233587170220124
 'Natur',de,Frühling,#66ff99,#003311,3,0.2173597801345563
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.2118705371076606
-'Freibad',de,Sommer,#e63900,#330d00,3,0.2096154880511085
 'Vögel',de,Frühling,#b3ffcc,#003311,3,0.1996526925911844
 'Schnee',de,Winter,#9999ff,#00004d,3,0.1931788912545644
 'Igel',de,Herbst,#e67300,#331a00,3,0.1809966621345716
@@ -16,6 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frühlingsgefühle',de,Frühling,#009933,#003311,1,0.0800956183509486
 'Glatteis',de,Winter,#4d94ff,#00004d,1,0.0671278123655972
 'Schlitten',de,Winter,#3333ff,#00004d,1,0.0630835464218368
-'Rekordwerte',de,Sommer,#ffff1a,#330d00,3,0.04980089953630862
+'Rekordwerte',de,Sommer,#ffff1a,#330d00,3,0.0498008995363086
 'Tulpe',de,Frühling,#00ff55,#003311,1,0.0084051363651123
 'Wärmebus',de,Winter,#6666ff,#00004d,1,0.000817784024015
