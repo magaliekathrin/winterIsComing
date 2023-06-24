@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Freibad',de,Sommer,#e63900,#330d00,3,0.2626550811623804
+'Freibad',de,Sommer,#e63900,#330d00,3,0.2509370317152961
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.2420796527478944
 'Sonne',de,Frühling,#00e600,#003311,3,0.2233587170220124
 'Natur',de,Frühling,#66ff99,#003311,3,0.2173597801345563
@@ -18,4 +18,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Winter,#4d94ff,#00004d,1,0.0671278123655972
 'Schlitten',de,Winter,#3333ff,#00004d,1,0.0630835464218368
 'Tulpe',de,Frühling,#00ff55,#003311,1,0.0078944409103454
-'Wärmebus',de,Winter,#6666ff,#00004d,1,0.0005908489573507949
+'Wärmebus',de,Winter,#6666ff,#00004d,1,0.0005908489573507
