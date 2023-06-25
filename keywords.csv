@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Winter,#9999ff,#00004d,3,0.1782460566572888
 'Regen',de,Herbst,#ff9933,#331a00,3,0.1661632260891035
 'Tropische Nächte',de,Sommer,#ff6633,#330d00,2,0.153740876840283
+'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.1309837540735313
 'Laub',de,Herbst,#804000,#331a00,3,0.1259381991932692
-'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.1215290427603042
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.116778735646292
 'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.1025567370660964
 'Frühlingsgefühle',de,Frühling,#009933,#003311,1,0.0800956183509486
