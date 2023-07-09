@@ -8,11 +8,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Igel',de,Herbst,#e67300,#331a00,2,0.1766309425513188
 'Regen',de,Herbst,#ff9933,#331a00,3,0.1661632260891035
 'Schnee',de,Winter,#9999ff,#00004d,3,0.1655533122496045
+'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.13894245721207277
 'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.1253832950534107
 'Glatteis',de,Winter,#4d94ff,#00004d,1,0.1250754421774242
 'Tropische Nächte',de,Sommer,#ff6633,#330d00,1,0.1198252622638161
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.116778735646292
-'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.1148538892334546
 'Laub',de,Herbst,#804000,#331a00,3,0.1114759552044884
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,3,0.0848162237004627
 'Schlitten',de,Winter,#3333ff,#00004d,1,0.0786324834871454
