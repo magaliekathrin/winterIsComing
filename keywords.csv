@@ -4,10 +4,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.2311367203374628
 'Vögel',de,Frühling,#b3ffcc,#003311,3,0.1948988327103197
 'Natur',de,Frühling,#66ff99,#003311,3,0.1812063737880781
+'Schnee',de,Winter,#9999ff,#00004d,3,0.17734426385460647
 'Igel',de,Herbst,#e67300,#331a00,2,0.1766309425513188
 'Sonne',de,Frühling,#00e600,#003311,3,0.1763970525972545
 'Regen',de,Herbst,#ff9933,#331a00,3,0.1661632260891035
-'Schnee',de,Winter,#9999ff,#00004d,3,0.1546848387594301
 'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.1388049930681263
 'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.1275994381757163
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.116778735646292
@@ -17,5 +17,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laub',de,Herbst,#804000,#331a00,3,0.0997056119238151
 'Schlitten',de,Winter,#3333ff,#00004d,2,0.0694618211998972
 'Frühlingsgefühle',de,Frühling,#009933,#003311,1,0.0190424346751336
-'Tulpe',de,Frühling,#00ff55,#003311,1,0.00426766677979339
+'Tulpe',de,Frühling,#00ff55,#003311,1,0.0042676667797933
 'Wärmebus',de,Winter,#6666ff,#00004d,1,0.0001368506312159
