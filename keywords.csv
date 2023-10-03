@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.2159277518134085
 'Natur',de,Frühling,#66ff99,#003311,3,0.212283507218906
-'Vögel',de,Frühling,#b3ffcc,#003311,3,0.17107317735903455
+'Vögel',de,Frühling,#b3ffcc,#003311,3,0.1710731773590345
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,3,0.1614773834211015
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.1613970223736533
-'Freibad',de,Sommer,#e63900,#330d00,3,0.1580238840896114
 'Regen',de,Herbst,#ff9933,#331a00,3,0.1572139104071841
 'Laub',de,Herbst,#804000,#331a00,3,0.1534886902556505
 'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.1534370648033053
+'Freibad',de,Sommer,#e63900,#330d00,3,0.15290824011253332
 'Schnee',de,Winter,#9999ff,#00004d,3,0.1526235837331225
 'Igel',de,Herbst,#e67300,#331a00,2,0.1383511200911978
 'Sonne',de,Frühling,#00e600,#003311,3,0.136794671704519
