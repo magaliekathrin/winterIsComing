@@ -8,10 +8,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vögel',de,Frühling,#b3ffcc,#003311,3,0.1542193358142519
 'Regen',de,Herbst,#ff9933,#331a00,3,0.1533262562030434
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.1462398809570577
-'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.1453291540304507
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,3,0.1437850315510863
 'Freibad',de,Sommer,#e63900,#330d00,2,0.1411629385456651
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.1380349801963041
+'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.13303089047133765
 'Igel',de,Herbst,#e67300,#331a00,3,0.1225035599155576
 'Glatteis',de,Winter,#4d94ff,#00004d,1,0.088308258716102
 'Schlitten',de,Winter,#3333ff,#00004d,2,0.0574798159037507
