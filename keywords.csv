@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schnee',de,Winter,#9999ff,#00004d,3,0.273681506549656
+'Schnee',de,Winter,#9999ff,#00004d,3,0.273965431930844
 'Regen',de,Herbst,#ff9933,#331a00,3,0.2460691412278284
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.2362138729904028
-'Tropische Nächte',de,Sommer,#ff6633,#330d00,2,0.20031746404140494
+'Tropische Nächte',de,Sommer,#ff6633,#330d00,2,0.2003174640414049
 'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.1504959932686647
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.1469894027619745
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.1462398809570577
