@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Winter,#9999ff,#00004d,3,0.2742080885048538
+'Regen',de,Herbst,#ff9933,#331a00,3,0.259484108787106
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.2466686479509333
-'Regen',de,Herbst,#ff9933,#331a00,3,0.2459492568618359
 'Tropische Nächte',de,Sommer,#ff6633,#330d00,1,0.1702699194351941
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.1469894027619745
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.1462398809570577
