@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.2621952874806935
 'Schnee',de,Winter,#9999ff,#00004d,3,0.2594579138495554
 'Regen',de,Herbst,#ff9933,#331a00,3,0.2418776529689111
-'Natur',de,Frühling,#66ff99,#003311,3,0.1698761982035355
 'Vögel',de,Frühling,#b3ffcc,#003311,3,0.1584920919558314
+'Natur',de,Frühling,#66ff99,#003311,3,0.1539119880184597
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.1462398809570577
 'Schlitten',de,Winter,#3333ff,#00004d,3,0.1326680831020844
 'Glatteis',de,Winter,#4d94ff,#00004d,2,0.1300159499086867
@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.1231528611220513
 'Igel',de,Herbst,#e67300,#331a00,3,0.1225035599155576
 'Laub',de,Herbst,#804000,#331a00,3,0.1209319517008535
-'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.12055847447129024
+'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.1205584744712902
 'Freibad',de,Sommer,#e63900,#330d00,2,0.1112610472059474
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,1,0.0953050855335503
 'Frühlingsgefühle',de,Frühling,#009933,#003311,1,0.0401654051347163
