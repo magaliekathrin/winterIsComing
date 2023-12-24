@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schlitten',de,Winter,#3333ff,#00004d,3,0.1326680831020844
 'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.1266453725195277
 'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.1231528611220513
-'Laub',de,Herbst,#804000,#331a00,3,0.1211905303614424
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.1205584744712902
+'Laub',de,Herbst,#804000,#331a00,3,0.10436307580722602
 'Freibad',de,Sommer,#e63900,#330d00,1,0.0945723251250552
 'Tropische Nächte',de,Sommer,#ff6633,#330d00,1,0.0786594459465612
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,1,0.07693377179799
