@@ -4,9 +4,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.1770988806542636
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.1736373273404719
 'Schnee',de,Winter,#9999ff,#00004d,3,0.1702152609451123
-'Vögel',de,Frühling,#b3ffcc,#003311,3,0.16879416965974353
 'Schlitten',de,Winter,#3333ff,#00004d,3,0.1611021564127412
 'Tropische Nächte',de,Sommer,#ff6633,#330d00,2,0.1599895686969716
+'Vögel',de,Frühling,#b3ffcc,#003311,3,0.15752045330169107
 'Natur',de,Frühling,#66ff99,#003311,3,0.1486623695684586
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.1462398809570577
 'Sonne',de,Frühling,#00e600,#003311,3,0.1452914482105042
