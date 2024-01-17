@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.2351174949580363
 'Glatteis',de,Winter,#4d94ff,#00004d,3,0.2280865884407283
-'Regen',de,Herbst,#ff9933,#331a00,3,0.22532847308031992
-'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.1798417855121283
+'Regen',de,Herbst,#ff9933,#331a00,3,0.2253284730803199
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.1770988806542636
 'Schnee',de,Winter,#9999ff,#00004d,3,0.1702152609451123
 'Schlitten',de,Winter,#3333ff,#00004d,3,0.1611021564127412
