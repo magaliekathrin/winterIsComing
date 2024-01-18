@@ -2,10 +2,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.2351174949580363
 'Glatteis',de,Winter,#4d94ff,#00004d,3,0.2280865884407283
 'Regen',de,Herbst,#ff9933,#331a00,3,0.2253284730803199
-'Schnee',de,Winter,#9999ff,#00004d,3,0.1702152609451123
+'Schnee',de,Winter,#9999ff,#00004d,3,0.1632943854397091
 'Schlitten',de,Winter,#3333ff,#00004d,3,0.1611021564127412
 'Vögel',de,Frühling,#b3ffcc,#003311,3,0.157520453301691
-'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.15552999355612407
+'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.155529993556124
 'Natur',de,Frühling,#66ff99,#003311,3,0.1486623695684586
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.1462398809570577
 'Sonne',de,Frühling,#00e600,#003311,3,0.1452914482105042
