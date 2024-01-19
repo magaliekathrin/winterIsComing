@@ -9,9 +9,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Natur',de,Frühling,#66ff99,#003311,3,0.1486623695684586
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.1462398809570577
 'Sonne',de,Frühling,#00e600,#003311,3,0.1452914482105042
-'Igel',de,Herbst,#e67300,#331a00,3,0.1420093854009833
 'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.1308068945576457
 'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.1231528611220513
+'Igel',de,Herbst,#e67300,#331a00,3,0.1214585475908358
 'Tropische Nächte',de,Sommer,#ff6633,#330d00,2,0.1161475188835619
 'Frühlingsgefühle',de,Frühling,#009933,#003311,1,0.1038295455926281
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.0930715187555642
