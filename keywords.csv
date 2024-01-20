@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.2411939420779672
 'Glatteis',de,Winter,#4d94ff,#00004d,3,0.2397384810837099
-'Regen',de,Herbst,#ff9933,#331a00,3,0.23287561348190827
+'Regen',de,Herbst,#ff9933,#331a00,3,0.2328756134819082
 'Schnee',de,Winter,#9999ff,#00004d,3,0.1632943854397091
 'Schlitten',de,Winter,#3333ff,#00004d,3,0.1611021564127412
 'Vögel',de,Frühling,#b3ffcc,#003311,3,0.157520453301691
@@ -10,11 +10,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sonne',de,Frühling,#00e600,#003311,3,0.1452914482105042
 'Natur',de,Frühling,#66ff99,#003311,3,0.1404260482240989
 'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.1308068945576457
+'Laub',de,Herbst,#804000,#331a00,2,0.12580805797526617
 'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.1231528611220513
 'Igel',de,Herbst,#e67300,#331a00,3,0.1214585475908358
 'Tropische Nächte',de,Sommer,#ff6633,#330d00,2,0.1161475188835619
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.0930715187555642
-'Laub',de,Herbst,#804000,#331a00,2,0.088709379436142
 'Frühlingsgefühle',de,Frühling,#009933,#003311,1,0.0887051587537338
 'Freibad',de,Sommer,#e63900,#330d00,1,0.0688934346390153
 'Wärmebus',de,Winter,#6666ff,#00004d,1,0.0062385610972955
