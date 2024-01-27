@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schnee',de,Winter,#9999ff,#00004d,3,0.23953826476580264
+'Schnee',de,Winter,#9999ff,#00004d,3,0.2395382647658026
 'Glatteis',de,Winter,#4d94ff,#00004d,3,0.2360065861938806
-'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.211288912055831
+'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.20275782842927453
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.171646114309656
 'Regen',de,Herbst,#ff9933,#331a00,3,0.1714886996011677
 'Schlitten',de,Winter,#3333ff,#00004d,3,0.1688714110321783
