@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.1187233460446526
 'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.1161389503739988
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.1079938323918041
-'Freibad',de,Sommer,#e63900,#330d00,2,0.0905796357875581
+'Freibad',de,Sommer,#e63900,#330d00,1,0.07699303541942437
 'Tropische Nächte',de,Sommer,#ff6633,#330d00,1,0.0388254552875393
 'Wärmebus',de,Winter,#6666ff,#00004d,1,0.0046075703816007
 'Tulpe',de,Frühling,#00ff55,#003311,1,0.0024275354056979
