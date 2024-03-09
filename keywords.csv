@@ -10,9 +10,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Igel',de,Herbst,#e67300,#331a00,3,0.1366638143497536
 'Laub',de,Herbst,#804000,#331a00,2,0.1346148570062489
 'Schnee',de,Winter,#9999ff,#00004d,3,0.1299554396226684
+'Glatteis',de,Winter,#4d94ff,#00004d,2,0.12318139639236289
 'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.1161389503739988
 'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.1068871573583364
-'Glatteis',de,Winter,#4d94ff,#00004d,2,0.0909668182156141
 'Freibad',de,Sommer,#e63900,#330d00,1,0.0736545930520724
 'Frühlingsgefühle',de,Frühling,#009933,#003311,2,0.0734121483772151
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,1,0.0712922408465863
