@@ -2,15 +2,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Regen',de,Herbst,#ff9933,#331a00,3,0.1689397885433158
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.1524431154525775
 'Schlitten',de,Winter,#3333ff,#00004d,3,0.1468907367630098
-'Natur',de,Frühling,#66ff99,#003311,3,0.14520194318915994
+'Natur',de,Frühling,#66ff99,#003311,3,0.1452019431891599
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.1439571318699709
 'Sonne',de,Frühling,#00e600,#003311,3,0.1403447264982214
-'Igel',de,Herbst,#e67300,#331a00,3,0.1392966753791087
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.1392343712354041
 'Laub',de,Herbst,#804000,#331a00,2,0.1346148570062489
 'Vögel',de,Frühling,#b3ffcc,#003311,3,0.1336403655674006
 'Schnee',de,Winter,#9999ff,#00004d,3,0.1299554396226684
 'Glatteis',de,Winter,#4d94ff,#00004d,2,0.1231813963923628
+'Igel',de,Herbst,#e67300,#331a00,3,0.12005283407224239
 'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.1082173273633535
 'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.1068871573583364
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.1035376986084872
