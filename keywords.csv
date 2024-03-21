@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Regen',de,Herbst,#ff9933,#331a00,3,0.17713569121075773
+'Regen',de,Herbst,#ff9933,#331a00,3,0.1771356912107577
+'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.17600197794842612
 'Sonne',de,Frühling,#00e600,#003311,3,0.1469906152507609
 'Natur',de,Frühling,#66ff99,#003311,3,0.137488255801695
-'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.1370414216505548
 'Vögel',de,Frühling,#b3ffcc,#003311,3,0.1336403655674006
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.1315818351872144
 'Schnee',de,Winter,#9999ff,#00004d,3,0.1299554396226684
