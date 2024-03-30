@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Winter,#4d94ff,#00004d,1,0.1047045019335083
 'Laub',de,Herbst,#804000,#331a00,2,0.1032421064696635
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.0998609603978577
-'Frühlingsgefühle',de,Frühling,#009933,#003311,3,0.0793400066509406
+'Frühlingsgefühle',de,Frühling,#009933,#003311,2,0.06743987565329951
 'Freibad',de,Sommer,#e63900,#330d00,1,0.0672354932518614
 'Tulpe',de,Frühling,#00ff55,#003311,1,0.0176759363934123
 'Tropische Nächte',de,Sommer,#ff6633,#330d00,1,0.0049268752976025
