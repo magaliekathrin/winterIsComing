@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vögel',de,Frühling,#b3ffcc,#003311,3,0.166692805980993
 'Natur',de,Frühling,#66ff99,#003311,3,0.1603587351349064
-'Sonne',de,Frühling,#00e600,#003311,3,0.14952554304305204
+'Sonne',de,Frühling,#00e600,#003311,3,0.149525543043052
 'Igel',de,Herbst,#e67300,#331a00,3,0.1463880540944677
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.1353748150591259
-'Schnee',de,Winter,#9999ff,#00004d,3,0.1336112767813951
 'Regen',de,Herbst,#ff9933,#331a00,3,0.1325545302107922
+'Schnee',de,Winter,#9999ff,#00004d,3,0.13216449890054946
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.1280294695178551
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.1240802538888764
 'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.1139899069364041
