@@ -9,10 +9,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.1248104795081634
 'Laub',de,Herbst,#804000,#331a00,3,0.1226091554550001
 'Regen',de,Herbst,#ff9933,#331a00,3,0.1179517391706263
-'Schnee',de,Winter,#9999ff,#00004d,3,0.1128050900249241
-'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.10573276649749504
+'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.105732766497495
 'Glatteis',de,Winter,#4d94ff,#00004d,2,0.1055134943474282
 'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.1028358975619573
+'Schnee',de,Winter,#9999ff,#00004d,3,0.1008441665211855
 'Schlitten',de,Winter,#3333ff,#00004d,3,0.0998708322349598
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.0910779766078301
 'Frühlingsgefühle',de,Frühling,#009933,#003311,2,0.0843607405042627
