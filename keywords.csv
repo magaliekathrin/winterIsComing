@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Natur',de,Frühling,#66ff99,#003311,3,0.1788535880730432
 'Freibad',de,Sommer,#e63900,#330d00,3,0.1572494072128147
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.1541297886577751
+'Hitze',de,Sommer,#ff8c66,#330d00,3,0.15215754938587747
 'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.1474054089455752
-'Hitze',de,Sommer,#ff8c66,#330d00,3,0.1464359313630644
 'Vögel',de,Frühling,#b3ffcc,#003311,3,0.1401766837875358
 'Igel',de,Herbst,#e67300,#331a00,3,0.1274270486106774
 'Laub',de,Herbst,#804000,#331a00,3,0.1228050157731137
