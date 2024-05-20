@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Winter,#9999ff,#00004d,3,0.0997679756339167
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.0993692660683253
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.0910779766078301
-'Schlitten',de,Winter,#3333ff,#00004d,2,0.0848905373997158
-'Frühlingsgefühle',de,Frühling,#009933,#003311,2,0.07548612341214753
+'Frühlingsgefühle',de,Frühling,#009933,#003311,2,0.0754861234121475
+'Schlitten',de,Winter,#3333ff,#00004d,1,0.07215727178975843
 'Tulpe',de,Frühling,#00ff55,#003311,1,0.0162207412717478
 'Tropische Nächte',de,Sommer,#ff6633,#330d00,1,0.0015155350534495
 'Wärmebus',de,Winter,#6666ff,#00004d,1,6.679672514294159e-05
