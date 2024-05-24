@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Freibad',de,Sommer,#e63900,#330d00,3,0.1389095640976222
 'Laub',de,Herbst,#804000,#331a00,3,0.1366077556798739
 'Glatteis',de,Winter,#4d94ff,#00004d,2,0.1355464011044048
+'Schnee',de,Winter,#9999ff,#00004d,3,0.12612249065246556
 'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.1196373052003909
-'Schnee',de,Winter,#9999ff,#00004d,3,0.0997679756339167
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.093960155703531
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.0910779766078301
 'Schlitten',de,Winter,#3333ff,#00004d,1,0.0721572717897584
