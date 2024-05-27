@@ -7,11 +7,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Freibad',de,Sommer,#e63900,#330d00,3,0.1389095640976222
 'Sonne',de,Frühling,#00e600,#003311,3,0.1383935329157818
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.1373786238734243
-'Laub',de,Herbst,#804000,#331a00,3,0.1366077556798739
-'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.13566222646317797
+'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.1356622264631779
 'Glatteis',de,Winter,#4d94ff,#00004d,2,0.1355464011044048
 'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.1293727621476049
 'Schnee',de,Winter,#9999ff,#00004d,3,0.1261224906524655
+'Laub',de,Herbst,#804000,#331a00,2,0.11611729732789282
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.093960155703531
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.0910779766078301
 'Tropische Nächte',de,Sommer,#ff6633,#330d00,2,0.076888264795432
