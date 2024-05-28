@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laub',de,Herbst,#804000,#331a00,2,0.1161172973278928
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.093960155703531
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.0910779766078301
-'Tropische Nächte',de,Sommer,#ff6633,#330d00,2,0.076888264795432
 'Schlitten',de,Winter,#3333ff,#00004d,1,0.0721572717897584
-'Frühlingsgefühle',de,Frühling,#009933,#003311,1,0.038194787790108105
+'Tropische Nächte',de,Sommer,#ff6633,#330d00,1,0.06535508507611719
+'Frühlingsgefühle',de,Frühling,#009933,#003311,1,0.0381947877901081
 'Tulpe',de,Frühling,#00ff55,#003311,1,0.0124020538188377
 'Wärmebus',de,Winter,#6666ff,#00004d,1,0.0001982756339157
