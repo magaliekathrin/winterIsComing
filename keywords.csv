@@ -12,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Igel',de,Herbst,#e67300,#331a00,3,0.1205075395530325
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.117549068839458
 'Laub',de,Herbst,#804000,#331a00,2,0.1031159766999011
-'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.093960155703531
-'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.08365378593655629
+'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.0836537859365562
+'Rekordwerte',de,Sommer,#ffff1a,#330d00,1,0.07986656734800134
 'Schlitten',de,Winter,#3333ff,#00004d,2,0.0774340410212946
 'Frühlingsgefühle',de,Frühling,#009933,#003311,1,0.0538214397919997
 'Tropische Nächte',de,Sommer,#ff6633,#330d00,1,0.0265173769883583
