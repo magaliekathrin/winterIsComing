@@ -12,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.1149054765969187
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.1054983997952945
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.0979963998501447
-'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.0851505421369818
 'Laub',de,Herbst,#804000,#331a00,2,0.0790298672090085
+'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.07733196581643452
 'Schlitten',de,Winter,#3333ff,#00004d,2,0.070274374242724
 'Frühlingsgefühle',de,Frühling,#009933,#003311,1,0.025870361442484
 'Tropische Nächte',de,Sommer,#ff6633,#330d00,1,0.0149343162906434
