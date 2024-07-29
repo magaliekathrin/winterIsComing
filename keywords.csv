@@ -3,15 +3,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Regen',de,Herbst,#ff9933,#331a00,3,0.2073650484993468
 'Sonne',de,Frühling,#00e600,#003311,3,0.1597835558089099
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.1489851254716064
+'Schnee',de,Winter,#9999ff,#00004d,3,0.14772506214105433
 'Freibad',de,Sommer,#e63900,#330d00,3,0.1470486432589357
-'Schnee',de,Winter,#9999ff,#00004d,3,0.1465752046579249
 'Natur',de,Frühling,#66ff99,#003311,3,0.1396736595570808
 'Vögel',de,Frühling,#b3ffcc,#003311,3,0.1381845386339447
 'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.1244980375320127
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.1144225297970124
 'Igel',de,Herbst,#e67300,#331a00,2,0.109745431803521
 'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.104174116939411
-'Glatteis',de,Winter,#4d94ff,#00004d,1,0.09805367552980326
+'Glatteis',de,Winter,#4d94ff,#00004d,1,0.0980536755298032
 'Laub',de,Herbst,#804000,#331a00,3,0.0806853557754598
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.0706855459439693
 'Tropische Nächte',de,Sommer,#ff6633,#330d00,1,0.0598522337026381
