@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.2868725303502152
-'Regen',de,Herbst,#ff9933,#331a00,3,0.2828237460123966
-'Freibad',de,Sommer,#e63900,#330d00,3,0.24183823800807988
+'Regen',de,Herbst,#ff9933,#331a00,3,0.26810609183780987
+'Freibad',de,Sommer,#e63900,#330d00,3,0.2418382380080798
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.2041627609567392
 'Sonne',de,Frühling,#00e600,#003311,3,0.1776072773430429
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.1764382537059083
