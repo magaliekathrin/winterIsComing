@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vögel',de,Frühling,#b3ffcc,#003311,3,0.1930959430039341
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.1785240918132283
 'Sonne',de,Frühling,#00e600,#003311,3,0.1784435122894393
-'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.1764382537059083
-'Natur',de,Frühling,#66ff99,#003311,3,0.17550690790563372
+'Natur',de,Frühling,#66ff99,#003311,3,0.1755069079056337
 'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.1676926832111913
+'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.15027304065002203
 'Schnee',de,Winter,#9999ff,#00004d,3,0.1396113069108052
 'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.1244288607387244
 'Igel',de,Herbst,#e67300,#331a00,2,0.116415975214811
