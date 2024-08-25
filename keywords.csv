@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Regen',de,Herbst,#ff9933,#331a00,3,0.2715532032391812
-'Freibad',de,Sommer,#e63900,#330d00,3,0.2513927107108376
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.2423865228371214
+'Freibad',de,Sommer,#e63900,#330d00,3,0.227728343195121
 'Vögel',de,Frühling,#b3ffcc,#003311,3,0.1930959430039341
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.1785240918132283
 'Sonne',de,Frühling,#00e600,#003311,3,0.1784435122894393
@@ -16,6 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tropische Nächte',de,Sommer,#ff6633,#330d00,1,0.0710702534661178
 'Glatteis',de,Winter,#4d94ff,#00004d,1,0.0561806747664042
 'Schlitten',de,Winter,#3333ff,#00004d,1,0.0417709629611248
-'Frühlingsgefühle',de,Frühling,#009933,#003311,1,0.00362442301112547
+'Frühlingsgefühle',de,Frühling,#009933,#003311,1,0.0036244230111254
 'Tulpe',de,Frühling,#00ff55,#003311,1,0.0004526617944812
 'Wärmebus',de,Winter,#6666ff,#00004d,1,0.000346617491073
