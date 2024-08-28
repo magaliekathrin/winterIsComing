@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.1676926832111913
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.150273040650022
 'Schnee',de,Winter,#9999ff,#00004d,3,0.1396113069108052
-'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.1152625511733702
-'Igel',de,Herbst,#e67300,#331a00,1,0.09895395393258934
+'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.12110747667918284
+'Igel',de,Herbst,#e67300,#331a00,1,0.0989539539325893
 'Laub',de,Herbst,#804000,#331a00,3,0.0901001259200499
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.083217322234192
 'Glatteis',de,Winter,#4d94ff,#00004d,1,0.0561806747664042
