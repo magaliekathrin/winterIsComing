@@ -9,9 +9,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.1501237576394544
 'Natur',de,Frühling,#66ff99,#003311,3,0.1402579850564741
 'Sonne',de,Frühling,#00e600,#003311,3,0.1397605360430873
-'Tulpe',de,Frühling,#00ff55,#003311,1,0.1355641348524854
 'Laub',de,Herbst,#804000,#331a00,3,0.124615360226105
 'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.1173428113325277
+'Tulpe',de,Frühling,#00ff55,#003311,1,0.11567955962461257
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.1004723438920731
 'Schlitten',de,Winter,#3333ff,#00004d,1,0.0938914727035006
 'Igel',de,Herbst,#e67300,#331a00,2,0.0895191324724876
