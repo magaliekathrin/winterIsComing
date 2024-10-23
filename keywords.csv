@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.1620344263619572
-'Vögel',de,Frühling,#b3ffcc,#003311,3,0.155925359595056
-'Schnee',de,Winter,#9999ff,#00004d,3,0.14712289301491113
+'Schnee',de,Winter,#9999ff,#00004d,3,0.1471228930149111
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.1467957542656161
 'Freibad',de,Sommer,#e63900,#330d00,3,0.1431552584802531
+'Vögel',de,Frühling,#b3ffcc,#003311,3,0.14203649520125214
 'Regen',de,Herbst,#ff9933,#331a00,3,0.1406670550191163
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.1398150510163754
 'Sonne',de,Frühling,#00e600,#003311,3,0.1374026942729878
