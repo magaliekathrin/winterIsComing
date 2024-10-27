@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vögel',de,Frühling,#b3ffcc,#003311,3,0.1575037177392461
-'Natur',de,Frühling,#66ff99,#003311,3,0.14167305283966614
+'Natur',de,Frühling,#66ff99,#003311,3,0.1416730528396661
 'Freibad',de,Sommer,#e63900,#330d00,3,0.1415501410875254
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.1405795474076636
 'Igel',de,Herbst,#e67300,#331a00,3,0.1404280275522813
@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.1173428113325277
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.1004723438920731
 'Schlitten',de,Winter,#3333ff,#00004d,2,0.0942006539568506
-'Frühlingsgefühle',de,Frühling,#009933,#003311,2,0.0756423683984195
+'Frühlingsgefühle',de,Frühling,#009933,#003311,1,0.06429605813865658
 'Glatteis',de,Winter,#4d94ff,#00004d,2,0.0463509469104573
 'Tulpe',de,Frühling,#00ff55,#003311,1,0.0337043306161233
 'Tropische Nächte',de,Sommer,#ff6633,#330d00,1,0.0096276027570334
