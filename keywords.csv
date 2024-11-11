@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Igel',de,Herbst,#e67300,#331a00,3,0.1857163393603947
 'Sonne',de,Frühling,#00e600,#003311,3,0.1638146268425596
-'Schnee',de,Winter,#9999ff,#00004d,3,0.1516143035186652
-'Regen',de,Herbst,#ff9933,#331a00,3,0.14078920359777733
+'Regen',de,Herbst,#ff9933,#331a00,3,0.1407892035977773
+'Schnee',de,Winter,#9999ff,#00004d,3,0.13837388253631996
 'Laub',de,Herbst,#804000,#331a00,3,0.1334391620568112
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.1292147039414014
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.1271979566806083
