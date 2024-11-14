@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Freibad',de,Sommer,#e63900,#330d00,3,0.1187283486757284
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.1142107202557975
 'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.1125842925149819
-'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.1049386806438409
+'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.11233490172908295
 'Schlitten',de,Winter,#3333ff,#00004d,1,0.0709932457338244
-'Glatteis',de,Winter,#4d94ff,#00004d,2,0.06268663679121252
+'Glatteis',de,Winter,#4d94ff,#00004d,2,0.0626866367912125
 'Frühlingsgefühle',de,Frühling,#009933,#003311,1,0.0261179654918613
 'Tulpe',de,Frühling,#00ff55,#003311,1,0.0166238414995364
 'Tropische Nächte',de,Sommer,#ff6633,#330d00,1,0.0055037103610635
