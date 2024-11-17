@@ -8,11 +8,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.1238900274411002
 'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.1211223711902703
 'Regen',de,Herbst,#ff9933,#331a00,3,0.1189457628390303
-'Freibad',de,Sommer,#e63900,#330d00,3,0.1187283486757284
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.1142107202557975
 'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.1125842925149819
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,1,0.108118758178517
-'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.10043975146972046
+'Freibad',de,Sommer,#e63900,#330d00,3,0.10151965137436914
+'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.1004397514697204
 'Schlitten',de,Winter,#3333ff,#00004d,2,0.0648447088737507
 'Glatteis',de,Winter,#4d94ff,#00004d,2,0.0626866367912125
 'Frühlingsgefühle',de,Frühling,#009933,#003311,1,0.0261179654918613
