@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schnee',de,Winter,#9999ff,#00004d,3,0.16692376975579923
+'Schnee',de,Winter,#9999ff,#00004d,3,0.1669237697557992
 'Sonne',de,Frühling,#00e600,#003311,3,0.1547720704738822
 'Igel',de,Herbst,#e67300,#331a00,3,0.1472040520515214
 'Laub',de,Herbst,#804000,#331a00,3,0.145571245586046
@@ -18,4 +18,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frühlingsgefühle',de,Frühling,#009933,#003311,1,0.0225003006680821
 'Tulpe',de,Frühling,#00ff55,#003311,1,0.0166238414995364
 'Tropische Nächte',de,Sommer,#ff6633,#330d00,1,0.0049781838069039
-'Wärmebus',de,Winter,#6666ff,#00004d,1,0.0021465029366525
+'Wärmebus',de,Winter,#6666ff,#00004d,1,0.002274572496154625
