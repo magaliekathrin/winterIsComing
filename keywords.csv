@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Winter,#9999ff,#00004d,3,0.2559347833833384
 'Sonne',de,Frühling,#00e600,#003311,3,0.1662401233946526
-'Laub',de,Herbst,#804000,#331a00,3,0.1529727170722818
+'Laub',de,Herbst,#804000,#331a00,3,0.1622514867841668
 'Igel',de,Herbst,#e67300,#331a00,3,0.1472040520515214
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.13055039224845
 'Vögel',de,Frühling,#b3ffcc,#003311,3,0.1251302869782053
