@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.1424157049590749
 'Schnee',de,Winter,#9999ff,#00004d,3,0.1416755078570116
 'Hitze',de,Sommer,#ff8c66,#330d00,3,0.1371276940358687
+'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.13698447416201692
 'Sonne',de,Frühling,#00e600,#003311,3,0.1364452521125264
-'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.1339187305649397
 'Vögel',de,Frühling,#b3ffcc,#003311,3,0.1322472786609599
 'Natur',de,Frühling,#66ff99,#003311,3,0.1274071629428724
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.1261941105567057
