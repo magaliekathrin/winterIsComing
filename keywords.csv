@@ -11,11 +11,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Igel',de,Herbst,#e67300,#331a00,3,0.1231337843273484
 'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.1168597086055359
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.1132308361199588
-'Laub',de,Herbst,#804000,#331a00,3,0.1048034237548569
 'Regen',de,Herbst,#ff9933,#331a00,3,0.1035358818102903
+'Laub',de,Herbst,#804000,#331a00,3,0.09088408019162837
 'Freibad',de,Sommer,#e63900,#330d00,2,0.0898832505369933
 'Schlitten',de,Winter,#3333ff,#00004d,3,0.0737060311790517
 'Frühlingsgefühle',de,Frühling,#009933,#003311,1,0.0033788354677981
 'Tropische Nächte',de,Sommer,#ff6633,#330d00,1,0.0031850704477274
-'Tulpe',de,Frühling,#00ff55,#003311,1,0.0025388983948846596
+'Tulpe',de,Frühling,#00ff55,#003311,1,0.0025388983948846
 'Wärmebus',de,Winter,#6666ff,#00004d,1,0.0015198726974516
