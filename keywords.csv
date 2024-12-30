@@ -7,10 +7,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.1326300540699699
 'Natur',de,Frühling,#66ff99,#003311,3,0.1274071629428724
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.1261941105567057
+'Laub',de,Herbst,#804000,#331a00,3,0.12527763464299688
 'Energiekrise',de,Winter,#e6e6ff,#00004d,3,0.1204681814920225
-'Hitze',de,Sommer,#ff8c66,#330d00,3,0.11665250160000602
+'Hitze',de,Sommer,#ff8c66,#330d00,3,0.116652501600006
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.1132308361199588
-'Laub',de,Herbst,#804000,#331a00,3,0.1094753204356113
 'Freibad',de,Sommer,#e63900,#330d00,2,0.105244776343541
 'Blätter',de,Herbst,#ffd9b3,#331a00,3,0.1042830623147055
 'Regen',de,Herbst,#ff9933,#331a00,3,0.1035358818102903
