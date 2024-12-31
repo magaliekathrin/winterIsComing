@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sonne',de,Frühling,#00e600,#003311,3,0.1921502339327268
-'Schnee',de,Winter,#9999ff,#00004d,3,0.19136270253818488
+'Schnee',de,Winter,#9999ff,#00004d,3,0.1913627025381848
 'Vögel',de,Frühling,#b3ffcc,#003311,3,0.1691316997031165
+'Sonne',de,Frühling,#00e600,#003311,3,0.16829659884281775
 'Igel',de,Herbst,#e67300,#331a00,3,0.1593007122807145
 'Glatteis',de,Winter,#4d94ff,#00004d,3,0.1329660707381889
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.1326300540699699
