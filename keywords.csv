@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Winter,#9999ff,#00004d,3,0.3301233515493422
 'Jahreswechsel',de,Herbst,#ffbf80,#00004d,3,0.2959233642401242
 'Sonne',de,Frühling,#00e600,#003311,3,0.1651450726553575
-'Vögel',de,Frühling,#b3ffcc,#003311,3,0.1471503700358848
-'Natur',de,Frühling,#66ff99,#003311,3,0.14508309531962335
+'Natur',de,Frühling,#66ff99,#003311,3,0.1450830953196233
+'Vögel',de,Frühling,#b3ffcc,#003311,3,0.1345785640759566
 'Glatteis',de,Winter,#4d94ff,#00004d,3,0.1329660707381889
 'Temperaturen',de,Sommer,#ffd9cc,#330d00,3,0.1326300540699699
 'Rekordwerte',de,Sommer,#ffff1a,#330d00,2,0.1261941105567057
